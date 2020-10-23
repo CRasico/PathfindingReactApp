@@ -5,6 +5,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
+      <h1>"Now this is a cool header"</h1>
     </div>
   );
 }
